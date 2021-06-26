@@ -1,4 +1,4 @@
-1. En la carpeta se encuentra el archivo de exportacion de la base de datos usada
+1. En la carpeta data_base se encuentra el archivo de exportacion de la base de datos usada
  "dump-coytexdb-202106261610".
 dentro de la misma carperta con el nombre de "Script-punto2"  se encuentran los sripts para lasconsultas 
 del punto 2
